@@ -16,36 +16,20 @@ Here are some ideas to get you started:
 
 
 Hi! I'm Minhwa Cho, M.Sc. student in Department of Applied Artificial Intelligence in [Data eXperience Lab](https://sites.google.com/view/dxlab/intro?authuser=0), advised by [Eunil Park](https://sites.google.com/view/eunil?pli=1) at Sungkyunkwan University.
-18
-Currently, I am interested in data analytics for recommendation system.
-19
-​
-20
->Contact me at 
-21
->📧*Email* dianne11161@gmail.com
-22
->🗂*Github* https://github.com/MinhwaCho
 
-23
+Currently, I am interested in data analytics for recommendation system.
+
+>Contact me at 
+>📧*Email* dianne11161@gmail.com
+>🗂*Github* https://github.com/MinhwaCho
 ---
-24
-🎓 **Education**<br>
-25
+🎓 ****Education****<br>
 2023- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.Sc. in AAI, Sungkyunkwan University<br>
-26
 2019-2022 &nbsp;&nbsp;&nbsp;B.S. in Computer Engineering, Hansung University<br>
-27
 ---
-28
 📚 **Tech Stack**<br>
-29
 🎈 used as the main<br>
-30
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java11&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-007396?style=for-the-badge&logo=MySQL&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-FCC628?style=for-the-badge&logo=linux&logoColor=black) <br>
-31
 🎈 used at least once<br>
-32
 ![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA20?style=for-the-badge&logo=Firebase&logoColor=white) <br>
-33
 ![Sprint](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)<br>
