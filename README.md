@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi! I'm Minhwa Cho, M.Sc. student in Department of Applied Artificial Intelligence in [Data eXperience Lab](https://sites.google.com/view/dxlab/intro?authuser=0), advised by [Eunil Park](https://sites.google.com/view/eunil?pli=1) at Sungkyunkwan University.
+Hi! I'm Minhwa Cho, M.Sc. student in Department of Applied Artificial Intelligence and a research intern in [Data eXperience Lab](https://sites.google.com/view/dxlab/intro?authuser=0), advised by [Eunil Park](https://sites.google.com/view/eunil?pli=1) at Sungkyunkwan University.
 
 Currently, I am interested in data analytics for recommendation system.
 
@@ -25,7 +25,7 @@ Currently, I am interested in data analytics for recommendation system.
 
 * * *
 ## 🎓 Education<br>
-2023-     M.Sc. in AAI, Sungkyunkwan University<br>
+2023-     research intern, Sungkyunkwan University<br>
 2019-2022 B.S. in Computer Engineering, Hansung University<br>
 
 ## 📚 Tech Stack<br>
