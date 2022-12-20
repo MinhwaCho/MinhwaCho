@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi! I'm Minhwa Cho, M.Sc. student in Department of Applied Artificial Intelligence and a research intern in [Data eXperience Lab](https://sites.google.com/view/dxlab/intro?authuser=0), advised by [Eunil Park](https://sites.google.com/view/eunil?pli=1) at Sungkyunkwan University.
+Hi! I'm Minhwa Cho, student in Department of Applied Artificial Intelligence and a research intern in [Data eXperience Lab](https://sites.google.com/view/dxlab/intro?authuser=0), advised by [Eunil Park](https://sites.google.com/view/eunil?pli=1) at Sungkyunkwan University.
 
 Currently, I am interested in data analytics for recommendation system.
 
