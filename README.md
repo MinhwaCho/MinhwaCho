@@ -27,7 +27,7 @@ Currently, I am interested in data analytics for recommendation system.
 #### 🎓 Education<br>
 2023-     M.Sc. in AAI, Sungkyunkwan University<br>
 2019-2022 B.S. in Computer Engineering, Hansung University<br>
-* * *
+
 📚 **Tech Stack**<br>
 🎈 used as the main<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java11&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-007396?style=for-the-badge&logo=MySQL&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-FCC628?style=for-the-badge&logo=linux&logoColor=black) <br>
