@@ -19,9 +19,9 @@ Hi! I'm Minhwa Cho, M.Sc. student in Department of Applied Artificial Intelligen
 
 Currently, I am interested in data analytics for recommendation system.
 
->Contact me at 
->📧*Email* dianne11161@gmail.com
->🗂*Github* https://github.com/MinhwaCho
+>Contact me at <br>
+>📧*Email* dianne11161@gmail.com<br>
+>🗂*Github* https://github.com/MinhwaCho<br>
 ---
 🎓 **Education**<br>
 2023-     M.Sc. in AAI, Sungkyunkwan University<br>
