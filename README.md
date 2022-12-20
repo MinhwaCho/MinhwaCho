@@ -23,6 +23,7 @@ Currently, I am interested in data analytics for recommendation system.
 >📧*Email* dianne11161@gmail.com<br>
 >🗂*Github* https://github.com/MinhwaCho<br>
 ---
+About
 ---
 🎓 **Education**<br>
 2023-     M.Sc. in AAI, Sungkyunkwan University<br>
