@@ -24,7 +24,7 @@ Currently, I am interested in data analytics for recommendation system.
 >🗂*Github* https://github.com/MinhwaCho<br>
 
 * * *
-#####🎓 Education#####<br>
+####🎓 Education####<br>
 2023-     M.Sc. in AAI, Sungkyunkwan University<br>
 2019-2022 B.S. in Computer Engineering, Hansung University<br>
 * * *
