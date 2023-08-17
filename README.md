@@ -25,8 +25,8 @@ Currently, I am interested in data analytics for recommendation system.
 
 * * *
 ## 🎓 Education<br>
-2023-     Sungkyunkwan University<br>
-2019-2022 B.S. in Computer Engineering, Hansung University<br>
+2023-     M.Sc. in Applied Artificial Intelligence, Sungkyunkwan University<br>
+2019-2022 B.Sc. in Computer Engineering, Hansung University<br>
 
 ## 📚 Tech Stack<br>
 🎈 used as the main<br>
