@@ -23,7 +23,7 @@ Currently, I am interested in data analytics for recommendation system.
 >📧*Email* dianne11161@gmail.com<br>
 >🗂*Github* https://github.com/MinhwaCho<br>
 >Or See more projects... <br>
->📝*portfolio* https://www.notion.so/dc3d19f2b1994905808d264d1e6d3a9e](https://whip-adapter-055.notion.site/dc3d19f2b1994905808d264d1e6d3a9e?pvs=4<br>
+>📝*portfolio* https://whip-adapter-055.notion.site/dc3d19f2b1994905808d264d1e6d3a9e?pvs=4<br>
 
 * * *
 ## 🎓 Education<br>
